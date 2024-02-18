@@ -10,11 +10,11 @@ Libraries listed in requirements.txt
 # Installation
 Clone the repository:
 bash <br>
-`git clone https://github.com/your-username/adipurush-sentiment-analysis.git`
-cd adipurush-sentiment-analysis
+`git clone https://github.com/your-username/adipurush-sentiment-analysis.git`<br>
+`cd adipurush-sentiment-analysis`
 # Install required Python libraries:
-bash
-`pip install -r requirements.txt`
+bash <br>
+`pip install -r requirements.txt`<br>
 # Usage
 Download the Twitter data CSV file (adipurush_tweets.csv) and place it in the project root directory.
 
