@@ -7,9 +7,9 @@ This repository contains the code for performing sentiment analysis on Twitter d
 Python 3.6 or higher
 Jupyter Notebook (for running the provided code)
 Libraries listed in requirements.txt
-Installation
+# Installation
 Clone the repository:
-bash
+bash <br>
 `git clone https://github.com/your-username/adipurush-sentiment-analysis.git`
 cd adipurush-sentiment-analysis
 # Install required Python libraries:
